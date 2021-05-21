@@ -9,7 +9,9 @@
 
 ## Live Demo
 
-TBA
+Below is a link to the deployed application
+
+https://serene-taiga-23043.herokuapp.com
 
 
 ## Getting Started
@@ -71,7 +73,17 @@ TBA
 
 ## Authors
 
-TBA
+ **Makungong Collins Tatang**
+
+- GitHub: [@CollinsTatang](https://github.com/CollinsTatang)
+- Twitter: [@CollinsTatang1](https://twitter.com/CollinsTatang1)
+- LinkedIn: [makungong-collins](https://www.linkedin.com/in/makungong-collins-b43260190/)
+
+ **Olaoluwa Soladoye**
+
+- GitHub: [@Crappypapa](https://github.com/crappypapa)
+- Twitter: [@Laoluwa](https://twitter.com/_laoluwa)
+- LinkedIn: [Olaoluwa](https://www.linkedin.com/in/olaoluwa-soladoye)
 
 ## 🤝 Contributing
 
